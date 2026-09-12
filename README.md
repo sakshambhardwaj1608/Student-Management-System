@@ -18,8 +18,8 @@ The system stores the following information:
 
 Roll Number 
 Name 
-Course   
-Marks 
+Course
+Marks
 How to Run
 Download or clone the project.
 Open the .cpp file in a C++ compiler such as Code::Blocks, VS Code, or Dev-C++.
