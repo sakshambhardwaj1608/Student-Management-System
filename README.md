@@ -16,10 +16,10 @@ Student Information
 
 The system stores the following information:
 
-Roll Number 25xxxxx
-Name saksham
-Course bca  
-Marks 400
+Roll Number 
+Name 
+Course   
+Marks 
 How to Run
 Download or clone the project.
 Open the .cpp file in a C++ compiler such as Code::Blocks, VS Code, or Dev-C++.
@@ -36,4 +36,4 @@ Add sorting of student records
 Add a graphical user interface
 Author
 
-Your Name saksham sharma
+saksham sharma
